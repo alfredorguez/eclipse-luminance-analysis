@@ -1,0 +1,15 @@
+# Datos experimentales
+data/
+
+# Vídeos generados o utilizados
+*.mp4
+
+# MATLAB
+*.asv
+*.m~
+
+# Keynote
+*.key
+
+# macOS
+.DS_Store
